@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Classes I have taken at UCLA**
 |   Quarter   |                                                                    Class                                                                    |
 | :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
 | Fall 2023 | [CS 32 - Intro to Computer Science II](https://github.com/sanjanarathore/CS32) <br> PHYSICS 1B - Fluids, Oscillations, Waves, and Electricity <br> ENGLISH 91D - Intro to Graphic Fiction
@@ -21,3 +22,7 @@ Here are some ideas to get you started:
 | Spring 2024 | CS 33 - Intro to Computer Organization <br> CS 35L - Software Construction <br> MUSICOLOGY 68 - Beatles
 | Fall 2024 | CS 111 - Operating Systems Principles <br> CS 180 - Algorithms and Complexity <br> MATH 115A - Linear Algebra
 | Winter 2025 | CS 118 - Computer Network Fundamentals <br> CS M51A - Logic Design of Digital Systems <br> ECE C147 - Neural Networks and Deep Learning <br> ECON 11 - Microeconomic Theory
+
+**My Projects**
+- [EasyEBT](https://github.com/suhanishukla/grocery)
+- [HopOn](https://github.com/suhanishukla/hopon)
