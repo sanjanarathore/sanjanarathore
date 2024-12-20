@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Sanjana!
 
 <!--
 **sanjanarathore/sanjanarathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|   Quarter   |                                                                    Class                                                                    |
+| :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+| Fall 2022 | CS 32 - Intro to Computer Science II <br> PHYSICS 1B - Physics for Scientists and Engineers: Fluids, Oscillations, Waves, and Electricity <br> ENGLISH 91D - Intro to Graphic Fiction
