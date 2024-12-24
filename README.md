@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sanjana!
+## hi there 👋 i'm sanjana!
 
 <!--
 **sanjanarathore/sanjanarathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Classes I have taken at UCLA**
+**classes I have taken at UCLA**
 |   Quarter   |                                                                    Classes                                                                    |
 | :---------: | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Fall 2023 | [CS 32 - Intro to Computer Science II](https://github.com/sanjanarathore/CS32) <br> PHYSICS 1B - Fluids, Oscillations, Waves, and Electricity <br> ENGLISH 91D - Intro to Graphic Fiction
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 | Fall 2024 | [CS 111 - Operating Systems Principles](https://github.com/sanjanarathore/CS111) <br> CS 180 - Algorithms and Complexity <br> MATH 115A - Linear Algebra
 | Winter 2025 | CS 118 - Computer Network Fundamentals <br> CS M51A - Logic Design of Digital Systems <br> ECE C147 - Neural Networks and Deep Learning <br> ECON 11 - Microeconomic Theory
 
-**My Projects**
+**a few projects I have worked on...**
 - [EasyEBT](https://github.com/suhanishukla/grocery)
 - [HopOn](https://github.com/suhanishukla/hopon)
