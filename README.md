@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Classes I have taken at UCLA**
-|   Quarter   |                                                                    Class                                                                    |
-| :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|   Quarter   |                                                                    Classes                                                                    |
+| :---------: | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Fall 2023 | [CS 32 - Intro to Computer Science II](https://github.com/sanjanarathore/CS32) <br> PHYSICS 1B - Fluids, Oscillations, Waves, and Electricity <br> ENGLISH 91D - Intro to Graphic Fiction
 | Winter 2024 | ENGR 96A - Machine Learning <br> MATH 170E - Intro to Probability and Statistics I <br> MATH 33B - Differential Equations <br> PHYSICS 1C - Magnetism, Electrodynamics, Optics, and Special Relativity <br> PHYSICS 4AL - Mechanics Laboratory 
 | Spring 2024 | CS 33 - Intro to Computer Organization <br> CS 35L - Software Construction <br> MUSICOLOGY 68 - Beatles
