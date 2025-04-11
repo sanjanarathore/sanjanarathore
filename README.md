@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 | Winter 2024 | ENGR 96A - Machine Learning <br> MATH 170E - Intro to Probability and Statistics I <br> MATH 33B - Differential Equations <br> PHYSICS 1C - Magnetism, Electrodynamics, Optics, and Special Relativity <br> PHYSICS 4AL - Mechanics Laboratory 
 | Spring 2024 | CS 33 - Intro to Computer Organization <br> [CS 35L - Software Construction](https://github.com/sanjanarathore/CS35L) <br> MUSICOLOGY 68 - Beatles
 | Fall 2024 | [CS 111 - Operating Systems Principles](https://github.com/sanjanarathore/CS111) <br> CS 180 - Algorithms and Complexity <br> MATH 115A - Linear Algebra
-| Winter 2025 | CS 118 - Computer Network Fundamentals <br> CS M51A - Logic Design of Digital Systems <br> ECE C147 - Neural Networks and Deep Learning <br> ECON 11 - Microeconomic Theory
+| Winter 2025 | CS M146 - Machine Learning <br> CS M51A - Logic Design of Digital Systems <br> ECE C147 - Neural Networks and Deep Learning <br> MATH 170S - Intro to Probability and Statistics II
 
 **a few projects I have worked on...**
 - [EasyEBT](https://github.com/suhanishukla/grocery)
